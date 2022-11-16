@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 - tools: ```Git``` ```AWS S3``` ```Jupyter``` ```Jira``` ```Scrum``` ```Figma``` ```Adobe Creative Suite```
 
 ### portfolio
+- The Chipy (website coming soon!) <a href=https://opensea.io/collection/thechipy> In the meantime, follow Chipy's NFT journey on OpenSea</a>
 - <a href=https://github.com/jiwonej/ovvobox>Co-founder @ Ovvo Box (Jan 2022 - Nov 2022) 📑</a>
 - <a href=https://github.com/jiwonej/EdVisorly>UIUX intern @ EdVisorly (Jun 2021 - Jan 2022) 📑</a>
 - <a href=https://github.com/jiwonej/teleblade>TELEBLADE: teleportation rollerblade (Fall 2020) 📑</a>
