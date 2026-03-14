@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ### portfolio
 - <a href=https://jiwonej.github.io/cotton-tree-church-3/>Cotton Tree Church</a> (church website in progress)
 - Tokyo Japanese Lifestyle (e-commerce website in progress)
-- <a href=https://opensea.io/collection/thechipy>Chipy's NFT journey on OpenSea</a>
+- <a href=https://opensea.io/collection/thechipy>Chipy's NFT journey on OpenSea 🔗</a>
 - <a href=https://github.com/jiwonej/ovvobox>Ovvo Box (Jan 2022 - Nov 2022) 📑</a>
 - <a href=https://github.com/jiwonej/edvisorly-updated>UIUX intern @ EdVisorly (Jun 2021 - Jan 2022) 📑</a>
 - <a href=https://github.com/jiwonej/teleblade>TELEBLADE: teleportation rollerblade (Fall 2020) 📑</a>
