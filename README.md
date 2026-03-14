@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 : experimenting & building
 
 - 👩‍💻 data analyst @ <a href="https://www.chipotle.com">Chipotle Mexican Grill
-- 🎩 previously, <a href="https://www.fortahealth.com/>Forta Health</a>, ABA Therapy Provider Start Up + <a href="https://www.bluewillow.ai/">BlueWillow</a>, AI Art Generator Startup
-- 🪄 previously, software engineer (co-op) @ <a href="https://www.netapp.com/">NetApp</a>, StorageGRID (Hybrid Cloud Object Storage Team)
 - ⭐️ diverse skillsets encompassing Data Science, Data Analytics, Marketing, UI/UX Design, Front-end Development, Web Development
 - 📫 <a href="https://www.linkedin.com/in/jiwonej/">LinkedIn</a> || jiwonshin160@gmail.com
 
@@ -29,6 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 ### more about me
 - current interests: generative AI, design, productivity, personal finance
-- lived in: 🌆 Los Angeles, CA, 🏫 Berkeley, CA, 🍊 Riverside, CA, 🌃 Seoul, S. Korea, 🐧 Pittsburgh, PA, 🍁 Rockville, MD
+- lived in: 🌴 Irvine, CA, 🌆 Los Angeles, CA, 🏫 Berkeley, CA, 🍊 Riverside, CA, 🌃 Seoul, S. Korea, 🐧 Pittsburgh, PA, 🍁 Rockville, MD
 - in love with: ☕️ coffee, 🍪 cookie, 🦦 otters, 🐓 chicken, 💙 blue, 🏋️‍♀️ gyming, 🌄 sunsets, 🍲 cooking, 🌿 nature
 
