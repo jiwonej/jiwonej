@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 # jiwon shin
 : experimenting & building
 
-- 👩‍💻 data analyst @ <a href="https://www.chipotle.com">Chipotle Mexican Grill
-- 🎩 previously, data analyst @ <a href="https://www.fortahealth.com/">Forta, business operations analyst @ <a href="https://www.bluewillow.ai/">BlueWillow AI, software engineer @ <a href="https://www.netapp.com/storagegrid/">NetApp
+- 👩‍💻 data analyst @ <a href="https://www.chipotle.com">Chipotle Mexican Grill</a>
+- 🎩 previously, data analyst @ <a href="https://www.fortahealth.com/">Forta</a>, business operations analyst @ <a href="https://www.bluewillow.ai/">BlueWillow AI</a>, software engineer @ <a href="https://www.netapp.com/storagegrid/">NetApp</a>
 - ⭐️ diverse skillsets encompassing Data Science, Data Analytics, Marketing, UI/UX Design, Front-end Development, Web Development
 - 📫 <a href="https://www.linkedin.com/in/jiwonej/">LinkedIn</a> || jiwonshin160@gmail.com
 
