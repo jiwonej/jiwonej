@@ -5,9 +5,10 @@ jiwonej/jiwonej is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # jiwon shin
-: cultivating an innovative mindset
+: experimenting & building
 
-- 👩‍💻 data analyst @ <a href="https://www.bluewillow.ai/">BlueWillow</a>, AI Art Generator Startup
+- 👩‍💻 data analyst @ <a href="https://www.chipotle.com">Chipotle Mexican Grill
+- 🎩 previously, <a href="https://www.fortahealth.com/>Forta Health</a>, ABA Therapy Provider Start Up + <a href="https://www.bluewillow.ai/">BlueWillow</a>, AI Art Generator Startup
 - 🪄 previously, software engineer (co-op) @ <a href="https://www.netapp.com/">NetApp</a>, StorageGRID (Hybrid Cloud Object Storage Team)
 - ⭐️ diverse skillsets encompassing Data Science, Data Analytics, Marketing, UI/UX Design, Front-end Development, Web Development
 - 📫 <a href="https://www.linkedin.com/in/jiwonej/">LinkedIn</a> || jiwonshin160@gmail.com
